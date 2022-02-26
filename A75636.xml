@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles concerning the surrender of Newark to the Commissioners of both kingdoms: and sent from Colonel General Poyntz to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, by Lieutenant Colonel Carleton, his adjutant general. Which articles were read in the House of Commons, May 9. Ordered by the Commons assembled in Parliament, that these articles be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75636</idno>
+            <idno type="STC">Wing A3814</idno>
+            <idno type="STC">Thomason E337_10</idno>
+            <idno type="STC">ESTC R200824</idno>
+            <idno type="EEBO-CITATION">99861459</idno>
+            <idno type="PROQUEST">99861459</idno>
+            <idno type="VID">113596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113596)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles concerning the surrender of Newark to the Commissioners of both kingdoms: and sent from Colonel General Poyntz to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, by Lieutenant Colonel Carleton, his adjutant general. Which articles were read in the House of Commons, May 9. Ordered by the Commons assembled in Parliament, that these articles be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>May 11. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Newark (Nottinghamshire, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113596:1" rendition="simple:additions"/>
+            <p>ARTICLES Concerning the SVRRENDER OF Newark To the Commiſsioners of both KINGDOMS: And ſent from Colonel General POYNTZ to the Honorable <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, by Lieutenant Colonel <hi>Carleton,</hi> his Adjutant General.</p>
+            <p>Which <hi>Articles</hi> were read in the Houſe of <hi>Commons, May</hi> 9.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That theſe Articles be forthwith Printed and Pub<g ref="char:EOLunhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>May</hi> 11. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113596:2"/>
+            <pb n="3" facs="tcp:113596:2"/>
+            <head>Articles Agreed and Concluded the ſixth day of <hi>May,</hi> 1646. between the Commiſsioners hereunder named, Au<g ref="char:EOLhyphen"/>thoriſed by the committee of both King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Scotland</hi> on the one part, and the Commiſsioners hereunder named, Authoriſed by the Right Ho<g ref="char:EOLhyphen"/>norable <hi>Iohn</hi> Lord <hi>Bellaſyſe</hi> Governour of <hi>Newark,</hi> Lieut: General to His Majeſty of the Counties of <hi>Nottingham, Lincoln,</hi> and <hi>Rutland,</hi> and Governour of the Town and Caſtle of <hi>Newark</hi> of the other part; touching the Surrendering of that Gar<g ref="char:EOLhyphen"/>riſon, and the Caſtle, Forts, and Sconces thereunto belonging, to the Committees of both Kingdoms, for the uſe of the Parliament of <hi>England.</hi>
+            </head>
+            <p n="1">1. THat the town and Garriſon of <hi>Newark,</hi> with the Caſtle, Forts, Sconces, Ordnance, Morter-pieces, Arms, Ammunition, Proviſions and Neceſſaries of War (not hereafter excepted) be Surrendred on Saturday next by ten of the clock,
+<pb n="4" facs="tcp:113596:3"/>into the hands of the Committee of both King<g ref="char:EOLhyphen"/>dome, or whom they ſhall appoint for the uſe of the Parliament of <hi>England,</hi> without imbezelling any of them.</p>
+            <p n="2">2. That the Governour of the ſaid Garriſon, the Lord <hi>Bellaſyſe,</hi> ſhall march away with his Ser<g ref="char:EOLhyphen"/>vants. Horſes, Arms, and their proper Goods, to any Garriſon he ſhall name, not Beſieged or Blockt up, or to his own houſe, there to remain unmoleſted (ſubmitting to all Ordinances of Parliament) and alſo that the ſaid Lord <hi>Bellaſyſe</hi> ſhall have liberty upon deſire, any time within three Moneths to paſſe beyond Sea, and to have Paſſes granted for himſelf and his Servants accordingly.</p>
+            <p n="3">3. That all Officers in Commiſſion, or that have formerly been in Commiſſion, ſhall march away with their Horſes, Arms, and their proper Goods, the Common Souldiers Horſe and Foot, with their Money, Clothes and Swords, to any Garriſon not Beſieged or Blockt up, or to their own Houſes, as they ſhall make choyce of. And thoſe that have<g ref="char:EOLhyphen"/>not money, to have free Quarter in their March, and not to march above ten miles in one day, unleſſe they pleaſe, and to have Convoys and Carriages provided for carrying away their Goods; Hoſtages being given for the return of the Convoy and Car<g ref="char:EOLhyphen"/>riages: And ſuch Goods as cannot be removed, the owners ſhall have three Moneths liberty to diſpoſe of them.</p>
+            <p n="4">4. That all ſuch Officers and Gentlemen now in the Garriſon, who ſhall deſire to depart this King<g ref="char:EOLhyphen"/>dom, ſhall upon ſignifying thereof to the Commiſ<g ref="char:EOLhyphen"/>ſioners
+<pb n="5" facs="tcp:113596:3"/>of both Kingdoms, any time in three moneths, have paſſes for that purpoſe for themſelves and Servants, ingaging themſelves during their ſtay, to do no diſſervice to the Parliament.</p>
+            <p n="5">5. That all ſuch Officers and Souldiers, as by reaſon of ſickneſſe, wounds, or otherwiſe, are not able to march out at the time appointed, ſhall have liberty to ſtay in the Town, or ſome other conve<g ref="char:EOLhyphen"/>nient place, till they be recovered; and ſuch as are not able to provide maintenance for themſelves, ſhall have care taken of them.</p>
+            <p n="6">6. That all Noblemen and Gentlemen in the ſaid Garriſon, ſhall have liberty to march forth of the ſame, with their Horſes and Arms, and their known menial Servants, with their Horſes and Swords to their own Houſes, there to remain un<g ref="char:EOLhyphen"/>moleſted, ſubmitting to all Orders of Parliament; and to have liberty to carry away their own proper Goods then, or at any time within three Moneths, or to have Paſſes for themſelves and Servants to go beyond Sea, upon deſire within three Moneths; and in the mean time to engage themſelves to do nothing to the diſſervice of the Parliament.</p>
+            <p n="7">7. That all Clergy-men in the ſaid Garriſon, ſhall have liberty with their Horſes, Servants, and their own proper Goods, to march to any Garriſon unblockt up, or not beſieged, or to their own Houſes, there to remain unmoleſted (ſubmitting to all Ordinances of Parliament).</p>
+            <p n="8">8 That the Mayor, Aldermen and Inhabitants of the ſaid Garriſon, ſhall not be moleſted in their perſons, Priviledges, Goods or Eſtates (ſubmit<g ref="char:EOLhyphen"/>ting
+<pb n="6" facs="tcp:113596:4"/>to all Ordinances of Parliament) but to enjoy the ſame liberties, and to have the ſame protection as all other Towns have which are under the power of the Parliament.</p>
+            <p n="9">9. That the Ladies, Gentlewomen, Wives, Widows, Children and Servants, belonging to any of the perſons mentioned in the former Arti<g ref="char:EOLhyphen"/>cles, or any others, ſhall have liberty to march forth of the ſaid Garriſon, with their Coaches, Horſes, and proper Goods, as in the ſixth Article. And if any of them by reaſon of ſickneſs, or any other juſt reaſon, cannot march forth then, they ſhall have liberty to ſtay there till their recovery, and then to depart unmoleſted.</p>
+            <p n="10">10. That all priſoners now in the ſaid Garriſon, Caſtle or Forts, or any other Priſoners of War taken by either party ſince the Siege began, ſhall forthwith upon Signing theſe Articles be ſet at li<g ref="char:EOLhyphen"/>berty, unleſſe they be detained for criminal offences, charged upon them not as Souldiers.</p>
+            <p n="11">11. That all perſons compriſed within theſe Ar<g ref="char:EOLhyphen"/>ticles, grounded upon the Summons of the 27 of <hi>April,</hi> which begat this preſent Treaty; be recom<g ref="char:EOLhyphen"/>mended to compound with the Parliament for their Eſtates, as coming in before the firſt of <hi>May;</hi> ſo as they do effectually proſecute ſuch Compoſitions within two Moneths next enſuing the date hereof.</p>
+            <p n="12">12. If any of the perſons above mentioned ſhall violate any of theſe Articles, or any part of them they ſhall looſe the benefit of all the ſaid Articles.</p>
+            <p n="13">13. Laſtly, That for the performance of theſe
+<pb n="7" facs="tcp:113596:4"/>Articles, Hoſtages be mutually given, and that a Ceſſation of Arms be continued by both ſides, till the time of Surrender according to theſe Articles. And that Guards and Convoys be appointed to protect the Gentlemen, and Souldiers in their march from violence.</p>
+            <p>Signed by us, Authorized by the Commiſſioners for both Kingdoms.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Alexander Popham.</item>
+                     <item>Fran. thurnhaugh.</item>
+                     <item>Jo. Hutchinſon.</item>
+                     <item>Walter Scot.</item>
+                     <item>Hen. Grey.</item>
+                     <item>Rich. Thornton.</item>
+                     <item>Gilbert Carr.</item>
+                     <item>Philip Jurfleton.</item>
+                     <item>F. Douglas.</item>
+                     <item>Jo. Archer.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>
+               <signed>Signed by us Commiſſioners for the Lord <hi>Bellaſyſe.</hi>
+                  <list>
+                     <item>Marm. Darcy.</item>
+                     <item>Ger. Nevil.</item>
+                     <item>Tho. Ingram.</item>
+                     <item>Bry. Palms.</item>
+                     <item>A. Eyre.</item>
+                     <item>J. Atkins.</item>
+                     <item>Anth. Gilby.</item>
+                     <item>Simon Fanſhaw.</item>
+                     <item>Hugh Cartwright.</item>
+                     <item>Edw. Standiſh.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
